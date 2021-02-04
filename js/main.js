@@ -123,7 +123,7 @@
           'headline':'JavaScript & jQuery',
           'value':6,
           'length':5,
-          'description':'Experience with object-oriented JavaScript. </br> Extended knowlage of DOM manipulation in aiding and extending the UI.'
+          'description':'Experience with object-oriented JavaScript. </br> Extended knowlege of DOM manipulation in aiding and extending the UI.'
 
         },
         {
@@ -131,7 +131,7 @@
           'headline':'Ruby & Python',
           'value':3,
           'length':5,
-          'description':'Experience with object-oriented JavaScript. </br> Extended knowlage of DOM manipulation in aiding and extending the UI.'
+          'description':'Experience with object-oriented JavaScript. </br> Extended knowlege of DOM manipulation in aiding and extending the UI.'
 
         }
 
